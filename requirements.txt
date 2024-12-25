@@ -1,0 +1,8 @@
+flask
+requests
+selenium
+pandas
+beautifulsoup4
+mysql-connector-python
+webdriver-manager
+python-dotenv
