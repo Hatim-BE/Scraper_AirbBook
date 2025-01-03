@@ -3,7 +3,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Airbnb_Logo_B%C3%A9lo.svg/320px-Airbnb_Logo_B%C3%A9lo.svg.png" alt="Airbnb Logo" width="200">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Booking.com_Icon_2022.svg/245px-Booking.com_Icon_2022.svg.png" alt="Booking.com Logo" width="200">
 </div>
-This project focuses on web scraping data from Airbnb and Booking.com using Python with Flask. The aim is to gather and process relevant data to enable detailed analysis or integration into other applications.
+This project focuses on web scraping data from Airbnb.com and Booking.com using Python with Flask. The aim is to gather and process relevant data to enable detailed analysis or integration into other applications.
 
 ---
 
