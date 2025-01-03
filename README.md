@@ -1,4 +1,4 @@
-# Web Scraping Project: Airbnb.com & Booking.com
+# Web Scraping Project: Airbnb & Booking.com
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Airbnb_Logo_B%C3%A9lo.svg/320px-Airbnb_Logo_B%C3%A9lo.svg.png" alt="Airbnb Logo" width="200">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Booking.com_Icon_2022.svg/245px-Booking.com_Icon_2022.svg.png" alt="Booking.com Logo" width="200">
